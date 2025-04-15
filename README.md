@@ -14,7 +14,7 @@ Sou um desenvolvedor Full Stack com sólida experiência em projetos de migraç�
 
 - **OMNIHUNTER - Assets Recovery**  
   *Desenvolvedor de Software*  
-  Atuei na pesquisa e desenvolvimento de soluções voltadas à recuperação de ativos. Trabalhei com **automação de processos**, testes e suporte de nível 3, utilizando , **Ruby on Rails** e **Python** em diversas rotinas de backend.
+  Atuei na pesquisa e desenvolvimento de soluções voltadas à recuperação de ativos. Trabalhei com **automação de processos**, testes e suporte de nível 3, utilizando **Ruby on Rails** e **Python** em diversas rotinas de backend.
 
 - **Cresol Confederação**  
   *Administrador de Sistema e Banco de Dados*  
