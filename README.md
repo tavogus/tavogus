@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Especialista em Java e Spring Boot
 
-Sou um desenvolvedor Full Stack com sólida experiência em projetos de migração, desenvolvimento e manutenção de aplicações web, atuando tanto no frontend quanto no backend. Tenho forte expertise em **Java** e **Spring Boot**, além de experiência com bancos de dados como **PostgreSQL**, **MongoDB** e **Oracle**.
+Sou um desenvolvedor Full Stack com sólida experiência em projetos de migração, desenvolvimento e manutenção de aplicações web, atuando tanto no frontend quanto no backend. Tenho forte expertise em **Java** e **Spring Boot**, além de experiência com **Ruby on Rails**, **Python** e bancos de dados como **PostgreSQL**, **MongoDB** e **Oracle**.
 
 ---
 
@@ -10,7 +10,7 @@ Sou um desenvolvedor Full Stack com sólida experiência em projetos de migraç�
 
 - **Substractum Tecnologia**  
   *Full Stack Developer* (3+ anos)  
-  Atuei no desenvolvimento de APIs REST, manutenção de aplicações web, correções de bugs e implementação de novas funcionalidades, utilizando **Angular 11+** no frontend e **Java Spring Boot** no backend.
+  Atuei no desenvolvimento de APIs REST, manutenção de aplicações web, correções de bugs e implementação de novas funcionalidades, utilizando **Angular 11+** no frontend, e no backend com **Java Spring Boot**, **Python** e **Ruby on Rails**.
 
 - **OMNIHUNTER - Assets Recovery**  
   *Desenvolvedor de Software*  
@@ -38,7 +38,7 @@ Entrego soluções escaláveis, seguras e de alta qualidade, com atenção a boa
 ### 📫 Contato
 
 - 📧 gustavobesantanna@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-becker-de-santanna-8b9b89108)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavo-becker-de-sant’anna-8b9b89108)
 
 ---
 
