@@ -10,15 +10,15 @@ Sou um desenvolvedor Full Stack com sólida experiência em projetos de migraç�
 
 - **Substractum Tecnologia**  
   *Full Stack Developer* (3+ anos)  
-  Atuei no desenvolvimento de APIs REST, manutenção de aplicações web, correções de bugs e implementação de novas funcionalidades, utilizando **Angular 11+** no frontend, e no backend com **Java Spring Boot**, **Python** e **Ruby on Rails**.
+  Atuei em projetos de desenvolvimento e manutenção de aplicações web, APIs REST e microsserviços. Trabalhei com **Java (Spring Boot)** no backend, além de **Angular 11+** no frontend. Participei da correção de bugs, implementação de novas funcionalidades e integração com sistemas legados e externos.
 
 - **OMNIHUNTER - Assets Recovery**  
   *Desenvolvedor de Software*  
-  Participei de projetos de pesquisa e desenvolvimento de software, testes e suporte de nível 3.
+  Atuei na pesquisa e desenvolvimento de soluções voltadas à recuperação de ativos. Trabalhei com **automação de processos**, testes e suporte de nível 3, utilizando , **Ruby on Rails** e **Python** em diversas rotinas de backend.
 
 - **Cresol Confederação**  
   *Administrador de Sistema e Banco de Dados*  
-  Trabalhei com **modelagem de dados**, versionamento e otimização de consultas utilizando **PostgreSQL**.
+  Responsável por **modelagem de dados**, versionamento e otimização de consultas SQL em **PostgreSQL**. Atuei diretamente no suporte e manutenção de sistemas internos relacionados à base de dados.
 
 ---
 
